@@ -63,12 +63,12 @@ Forestland is the only feature that exhibits negative emissions due to its role 
 To carry out all the objectives for this repo, the following necessary dependencies were loaded:
 + `Pandas` and `Numpy`
 + `Matplotlib` and `Seaborn`
-+ `Sklearn`
++ `Sklearn` for regression modeling
 
 ## 4. Team Members<a class="anchor" id="team-members"></a>
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Shaun Somai](https://github.com/Jana-Liebenberg)                                       | Shaun.Somai@ninetyone.com
-| [Rachel Finlayson](https://github.com/RachelFinlayson)                                        | Rachel.Finlayson@ninetyone.com
+| [Shaun Somai](https://github.com/ssomai91)                                                  | Shaun.Somai@ninetyone.com
+| [Rachel Finlayson](https://github.com/RachelFinlayson)                                      | Rachel.Finlayson@ninetyone.com
 
