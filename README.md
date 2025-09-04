@@ -10,13 +10,12 @@
 * [1. Project Overview](#project-description)
 * [2. Dataset](#dataset)
 * [3. Packages](#packages)
-* [4. Environment](#environment)
-* [5. Team Members](#team-members)
+* [4. Team Members](#team-members)
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
-Your team of environmental consultants and data scientists are tasked by a coalition of agricultural stakeholders to analyse and predict the effect of CO2 emissions on climate change from the agri-food sector. The stakeholders include policymakers, agricultural businesses, and environmental organisations. Your project aims to understand the impact of agricultural activities on climate change and develop strategies for sustainable practices. Utilising a comprehensive dataset compiled from the Food and Agriculture Organization (FAO) and the Intergovernmental Panel on Climate Change (IPCC), you will explore various emission sources, perform regression analysis to predict temperature variations, and offer actionable insights for the stakeholders.
+The team of environmental consultants and data scientists (us as collabarators) were tasked by a coalition of agricultural stakeholders to analyse and predict the effect of CO2 emissions on climate change from the agri-food sector. The stakeholders include policymakers, agricultural businesses, and environmental organisations. The project aims to understand the impact of agricultural activities on climate change and develop strategies for sustainable practices. Utilising a comprehensive dataset compiled from the Food and Agriculture Organization (FAO) and the Intergovernmental Panel on Climate Change (IPCC), various emission sources were explored, regression analysis to predict temperature variations performed, and actionable insights for the stakeholders are offered.
 
-By the end of this project, you will have a thorough understanding of the impact of agricultural activities on CO2 emissions and climate change. Your findings and recommendations will contribute to the ongoing efforts to promote sustainability within the agri-food sector, providing valuable insights for the stakeholders involved in this initiative.
+This project provides a thorough understanding of the impact of agricultural activities on CO2 emissions and climate change. The intention is for the findings and recommendations to contribute to the ongoing efforts to promote sustainability within the agri-food sector, providing valuable insights for the stakeholders involved in this initiative.
 
 ## 2. Dataset <a class="anchor" id="dataset"></a>
 Emissions from the agri-food sector play a crucial role in climate change, as they represent a significant share of global annual emissions. The dataset highlights the substantial contribution of the various sources of emissions. Therefore, it is essential to understand and address the environmental impact of the agri-food industry to mitigate climate change and promote sustainable practices within this sector.
