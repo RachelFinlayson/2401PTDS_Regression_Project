@@ -10,7 +10,8 @@
 * [1. Project Overview](#project-description)
 * [2. Dataset](#dataset)
 * [3. Packages](#packages)
-* [4. Team Members](#team-members)
+* [4. Environment](#Environment)
+* [5. Team Members](#team-members)
 
 ## 1. 📌Project Overview <a class="anchor" id="project-description"></a>
 The team of environmental consultants and data scientists (us as collabarators) were tasked by a coalition of agricultural stakeholders to analyse and predict the effect of CO2 emissions on climate change from the agri-food sector. The stakeholders include policymakers, agricultural businesses, and environmental organisations. The project aims to understand the impact of agricultural activities on climate change and develop strategies for sustainable practices. Utilising a comprehensive dataset compiled from the Food and Agriculture Organization (FAO) and the Intergovernmental Panel on Climate Change (IPCC), various emission sources were explored, regression analysis to predict temperature variations performed, and actionable insights for the stakeholders are offered.
@@ -65,7 +66,29 @@ To carry out all the objectives for this repo, the following necessary dependenc
 + `Matplotlib` and `Seaborn`
 + `Sklearn` for regression modeling
 
-## 4. 👥 Team Members<a class="anchor" id="team-members"></a>
+## 4. Environment <a class="anchor" id="environment"></a>
+
+It's highly recommended to use a virtual environment for your projects, there are many ways to do this; we've outlined one such method below. Make sure to regularly update this section. This way, anyone who clones your repository will know exactly what steps to follow to prepare the necessary environment. The instructions provided here should enable a person to clone your repo and quickly get started.
+
+### Create the new evironment - you only need to do this once
+
+```bash
+# create the conda environment
+conda create --name <env>
+```
+
+### This is how you activate the virtual environment in a terminal and install the project dependencies
+
+```bash
+# activate the virtual environment
+conda activate <env>
+# install the pip package
+conda install pip
+# install the requirements for this project
+pip install -r requirements.txt
+```
+
+## 5. 👥 Team Members<a class="anchor" id="team-members"></a>
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
